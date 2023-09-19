@@ -22,4 +22,7 @@ Algunas fueron reemplazadas por otras nuevas como McLaren, Williams, Red Bull y 
 
 
 Diagrama Entidad - Relación (DER):
-  ![image](https://github.com/MailenDV/Tpe-WebII-Parte1/assets/111664125/f9f0a6a5-29ec-4032-b057-bf1414fa2daf)
+
+
+  ![image](https://github.com/MailenDV/tpe-parte1-webII/assets/111664125/d8c5895b-8a25-479a-b0fd-62f428679f66)
+
