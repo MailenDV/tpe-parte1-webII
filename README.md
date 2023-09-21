@@ -1,28 +1,19 @@
 # Tpe-WebII-Parte1
 
-Integrantes: 
+# Integrantes: 
 
     Santiago Carrillo, email: cuatroxsa@gmail.com y Mailen Di Vito Bottan, email: mailendivito@gmail.com
 
-El tema elegido para realizar el Trabajo Practico Especial es el deporte motor Formula 1
+# Tema: Deporte Motor Formula 1
+
+Se decidio hacer la relación 1 a N, en este caso en particular aplica a que un solo equipo tiene 2 o más pilotos y esos 2 o más pilotos perteneces a un solo equipo.
+
+# Descripción del tema: 
+La base de datos es sobre el Campeonato Mundial de la FIA Fórmula 1, que es la principal competición de automovilismo internacional y el campeonato de deportes de motor más popular del mundo, y en donde a cada carrera se le denomina Gran Premio, y la mayoría de los circuitos de carreras donde se celebran esos Grandes Premios son autódromos, aunque también se utilizan circuitos callejeros.
 
 
-Se decidio hacer la relación 1 a N, en este caso en particular aplica que un solo equipo tiene 2 o más pilotos y esos 2 o más pilotos perteneces a un solo equipo.
+# Diagrama Entidad - Relación (DER):
 
-El Campeonato Mundial de la FIA Fórmula 1 es la principal competición de automovilismo internacional y el campeonato de deportes de motor más popular y prestigioso del mundo.
+    ![diagrama](https://github.com/MailenDV/tpe-parte1-webII/assets/111664125/6a400a56-f2b2-4170-8f07-c4c9ffade6e3)
 
-
-A cada carrera se le denomina Gran Premio y el torneo que las agrupa es el Campeonato Mundial de Fórmula 1. La mayoría de los circuitos de carreras donde se celebran los Grandes Premios 
-son autódromos, aunque también se utilizan circuitos callejeros.
-
-
-A su vez, los automóviles utilizados son monoplazas con la última tecnología disponible, siempre limitadas por un reglamento técnico.
-El inicio de la Fórmula 1 moderna se remonta al año 1950, en el que participaron escuderías como Ferrari, Alfa Romeo y Maserati. 
-Algunas fueron reemplazadas por otras nuevas como McLaren, Williams, Red Bull y otras volvieron a competir como Mercedes - AMG, que se han alzado varias veces con el Campeonato Mundial de Constructores.
-
-
-Diagrama Entidad - Relación (DER):
-
-
-  ![image](https://github.com/MailenDV/tpe-parte1-webII/assets/111664125/d8c5895b-8a25-479a-b0fd-62f428679f66)
 
