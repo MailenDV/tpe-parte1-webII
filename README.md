@@ -14,7 +14,8 @@ La base de datos es sobre el Campeonato Mundial de la FIA Fórmula 1, que es la 
 
 # Diagrama Entidad - Relación (DER):
 
-  ![image](https://github.com/MailenDV/tpe-parte1-webII/assets/111664125/4dd526b7-73d0-4d08-b311-b4faa201d248)
+ ![image](https://github.com/MailenDV/tpe-parte1-webII/assets/111664125/014ff876-34e7-4ec6-ad91-4d56f19149ff)
+
 
 
 
