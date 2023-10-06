@@ -2,7 +2,7 @@
 
 # Integrantes: 
 
-    Santiago Carrillo, email: cuatroxsa@gmail.com y Mailen Di Vito Bottan, email: mailendivito@gmail.com
+    Santiago Carrillo, email: cuatrox4sa@gmail.com y Mailen Di Vito Bottan, email: mailendivito@gmail.com
 
 # Tema: Deporte Motor Formula 1
 
