@@ -142,13 +142,19 @@ INSERT INTO `pilotos` (`id`, `nombre`, `campeonato`, `puntos`, `id_escuderia`) V
 -- Table structure for table `usuarios`
 --
 
-CREATE TABLE `usuarios` (
+CREATE TABLE `users` (
   `id` int(11) NOT NULL,
   `email` varchar(50) NOT NULL,
   `password` varchar(250) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
+-- Dumping data for table `users`
+--
+
+INSERT INTO `users` (`id`, `email`, `password`) VALUES
+(1, 'webadmin@admin.com', '$2a$12$JAlNkulDau/d5oimrog0f.Y1G7k4LuGOqyxXgjQkzlIVvQzdkB8qi'),
+(3, 'admin@admin.com', '$2a$12$DvsTDLzjxueyPWfbszgIM.OscyNZaPEVYCa4LKC8duchmL4EVYJQ6');
 -- Indexes for dumped tables
 --
 
